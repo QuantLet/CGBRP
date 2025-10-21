@@ -9,7 +9,7 @@ Keywords: 'dynamic, network, risk premia, full sample, rolling window'
 
 Author: Ya Qian and Chen Zhang 
 
-Submitted: Ya Qian
+Submitted: 26.09.2016
 
 Datafile: 'risk.mat'
 
