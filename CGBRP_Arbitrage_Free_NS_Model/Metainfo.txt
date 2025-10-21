@@ -8,7 +8,7 @@ Keywords: 'arbitrage free, Nelson Siegel model, MCMC, bayesian estimation, var'
 
 Author: Ya Qian and Chen Zhang 
 
-Submitted: Ya Qian
+Submitted: 26.09.2019
 
 Datafile: 'Yields.xls'
 
